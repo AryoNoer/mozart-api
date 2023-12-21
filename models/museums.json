@@ -1,0 +1,240 @@
+{
+    "id": "jakarta-pusat",
+    "data": {
+        "museums": [
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/pameran-galnas%2FIMG_20231128_130651.jpg?alt=media&token=b1325ca0-fb2d-47e9-ba93-924b6b51643a",
+                "name": "Arca Nandiswara",
+                "description": "Galeri Nasional Indonesia",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/pameran-galnas%2FIMG_20231128_130706.jpg?alt=media&token=2db002fd-a099-4bec-9540-07aa2a518c6f",
+                "name": "Arca Durga Mahisasuramardini",
+                "description": "Galeri Nasional Indonesia",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/pameran-galnas%2FIMG_20231128_130808.jpg?alt=media&token=2c855449-ab38-4cee-8efc-837d51f7f3e2",
+                "name": "Arca Ganesa",
+                "description": "Galeri Nasional Indonesia",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/pameran-galnas%2FIMG_20231128_130909.jpg?alt=media&token=f959e2a5-5686-48af-a60d-4e7a7d462414",
+                "name": "Arca Prajnaparamita",
+                "description": "Galeri Nasional Indonesia",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/pameran-galnas%2FIMG_20231128_131558.jpg?alt=media&token=3c717f6b-c659-46b2-8bf3-ff54ff805b20",
+                "name": "Arca Mahakala",
+                "description": "Galeri Nasional Indonesia",
+                "alamat": "jakarta-barat"
+            }
+        ],
+    "id": "jakarta-barat",
+    "data": {
+        "museums": [
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-indonesia%2FP_20231123_150433.jpg?alt=media&token=b87ecc19-21c8-45ff-838a-316e76dd9fa3",
+                "name": "De Bank Courant en Bank Van Leening",
+                "description": "Museum Bank Indonesia",
+                "alamat": "jakarta-pusat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-indonesia%2FP_20231123_150811.jpg?alt=media&token=a3c2df88-2b3a-4a64-9ac2-58563982a302",
+                "name": "De Javasche Bank",
+                "description": "Museum Bank Indonesia",
+                "alamat": "jakarta-pusat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-indonesia%2FP_20231123_150931.jpg?alt=media&token=1f7fe278-f127-4f93-99cb-e54ac15d7337",
+                "name": "Metamorfosa Logo Bank Indonesia",
+                "description": "Museum Bank Indonesia",
+                "alamat": "jakarta-pusat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-indonesia%2FP_20231123_151102.jpg?alt=media&token=fc3eb431-f0bc-4476-bf8c-92f466ab62d1",
+                "name": "Nasionalisasi De Javasche Bank",
+                "description": "Museum Bank Indonesia",
+                "alamat": "jakarta-pusat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-indonesia%2FP_20231123_151504.jpg?alt=media&token=9d370892-8d4d-44ff-bd50-a4131a1459b4",
+                "name": "Tongkat Komando dan Palu Bank Tunggal",
+                "description": "Museum Bank Indonesia",
+                "alamat": "jakarta-pusat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-fatahillah%2FP_20231123_141617.jpg?alt=media&token=ce5d5d92-97f5-4cc8-bebd-db9578f0d7ef",
+                "name": "Prasasti Kebon Kopi",
+                "description": "Museum Fatahillah",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-fatahillah%2FP_20231123_141847.jpg?alt=media&token=e6461fe5-d98d-4f7f-9604-8cbd0d140acf",
+                "name": "Prasasti Tugu Tarumanegara",
+                "description": "Museum Fatahillah",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-fatahillah%2FP_20231123_143411.jpg?alt=media&token=5645135c-103e-4f63-9a35-927964521f25",
+                "name": "Lukisan Van Der Parra",
+                "description": "Museum Fatahillah",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-fatahillah%2FP_20231123_144048.jpg?alt=media&token=200c4066-272b-439e-9b1c-96b58af96edf",
+                "name": "Lukisan The Battle Of SULTAN AGUNG And J.P. COEN",
+                "description": "Museum Fatahillah",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-fatahillah%2FP_20231123_144455.jpg?alt=media&token=7413922f-8c81-43e5-8d77-f3e69e04254f",
+                "name": "SUNDA-PORTUGUESE AGREEMENT 1522",
+                "description": "Museum Fatahillah",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-mandiri%2FP_20231128_134018.jpg?alt=media&token=6e6e4583-21e6-444e-903b-d8fe2236769e",
+                "name": "Bangking Hall 1933",
+                "description": "Museum Bank Mandiri",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-mandiri%2FP_20231128_135201.jpg?alt=media&token=8e868f5a-04a3-4db7-bb39-e38de0e0b1c1",
+                "name": "Kalkulator Analog",
+                "description": "Museum Bank Mandiri",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-mandiri%2FP_20231128_135657.jpg?alt=media&token=83e63f26-32c9-4c30-ae12-6f74560c86de",
+                "name": "Kalkulator Manual",
+                "description": "Museum Bank Mandiri",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-mandiri%2FP_20231128_140131.jpg?alt=media&token=e321453c-ff14-4452-b677-ca4e2fd5eba0",
+                "name": "Buku Besar",
+                "description": "Museum Bank Mandiri",
+                "alamat": "jakarta-barat"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-bank-mandiri%2FP_20231128_140454.jpg?alt=media&token=f94f556c-ac01-4a8a-a9fc-bac90dab7769",
+                "name": "GESCHENK VAN C.J.K VAN AA",
+                "description": "Museum Bank Mandiri",
+                "alamat": "jakarta-barat"
+            }
+        ],
+    "id": "jakarta-utara",
+    "data": {
+        "museums": [
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-utara"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-utara"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-utara"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-utara"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-utara"
+            }
+        ],
+    "id": "jakarta-timur",
+    "data": {
+        "museums": [
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-timur"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-timur"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-timur"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-timur"
+            },
+            {
+                "image": "",
+                "name": "",
+                "description": "Museum",
+                "alamat": "jakarta-timur"
+            }
+        ],
+    "id": "jakarta-selatan",
+    "data": {
+        "museums": [
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-basoeki%2F14_8.jpg?alt=media&token=8aa3e05f-46e2-44ed-8a82-5882e875feb5",
+                "name": "Buruh",
+                "description": "Museum Basoeki",
+                "alamat": "jakarta-selatan"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-basoeki%2F16_1.jpg?alt=media&token=66e18f37-acdd-4f65-9d4e-f6d74e529371",
+                "name": "Batu Batu Sejarah",
+                "description": "Museum Basoeki",
+                "alamat": "jakarta-selatan"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-basoeki%2F17_1.jpg?alt=media&token=55a47a0e-1338-4308-b50a-5c92d19f1acb",
+                "name": "Bencana",
+                "description": "Museum Basoeki",
+                "alamat": "jakarta-selatan"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-basoeki%2F18_1.jpg?alt=media&token=384b003c-b318-4630-a571-3895eef745ac",
+                "name": "Air",
+                "description": "Museum Basoeki",
+                "alamat": "jakarta-selatan"
+            },
+            {
+                "image": "https://firebasestorage.googleapis.com/v0/b/mozart-1313.appspot.com/o/museum-basoeki%2Fbanteng_1.jpg?alt=media&token=29fb9267-c0ed-4989-a7a1-06ca16130bba",
+                "name": "",
+                "description": "Museum Basoeki",
+                "alamat": "jakarta-selatan"
+            }
+        ],
+        "createdAt": {
+            "_seconds": 1702318318,
+            "_nanoseconds": 643000000
+        }
+    }
+}
+}
+    }
+}}
